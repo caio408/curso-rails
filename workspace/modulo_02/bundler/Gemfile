@@ -1,0 +1,13 @@
+source 'https://rubygems.org' 
+
+gem 'cpf_utils'
+
+gem 'rails', '5.2.8'
+
+gem 'lerolero_generator'
+
+gem 'documentos_br'
+
+gem 'tty-spinner'
+
+gem 'faker'
